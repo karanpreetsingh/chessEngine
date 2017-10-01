@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c55441d-0dbf-438d-9e4a-851b5dfcf0e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pawn.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pawn.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="508">
@@ -24,6 +24,16 @@
                 <element signature="e#431#432#0" expanded="true" />
                 <element signature="e#482#483#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" />
         <option value="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" />
         <option value="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -511,6 +522,14 @@
             <element signature="e#431#432#0" expanded="true" />
             <element signature="e#482#483#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
