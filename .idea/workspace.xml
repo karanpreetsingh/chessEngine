@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c55441d-0dbf-438d-9e4a-851b5dfcf0e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" afterPath="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pawn.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Pawn.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="476">
+              <caret line="67" column="47" lean-forward="false" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -138,8 +138,8 @@
         <option value="$PROJECT_DIR$/src/com/chess/engine/pieces/Piece.java" />
         <option value="$PROJECT_DIR$/src/com/chess/engine/board/BoardUtils.java" />
         <option value="$PROJECT_DIR$/src/com/chess/engine/Alliance.java" />
-        <option value="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java" />
       </list>
     </option>
   </component>
@@ -513,23 +513,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/chess/engine/pieces/Pawn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="67" column="47" lean-forward="false" selection-start-line="67" selection-start-column="47" selection-end-line="67" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
