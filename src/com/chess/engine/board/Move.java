@@ -14,6 +14,10 @@ public abstract class Move {
         this.destinationCoordinate = destinationCoordinate;
     }
 
+    public int getDestinationCoordinate(){
+        return this.destinationCoordinate;
+    }
+
     public static final class MajorMov extends Move{
 
         public MajorMov(final Board board, final Piece movedPiece, final int destinationCoordinate) {
